@@ -1,0 +1,19 @@
+{
+  "name": "testeemnode",
+  "version": "1.0.0",
+  "main": "testeHanked",
+  "scripts": {
+    "test": "mocha testeHanked"
+  },
+  "dependencies": {
+    "chromedriver": "^125.0.0",
+    "fs": "^0.0.1-security",
+    "mocha": "^10.3.0",
+    "selenium-webdriver": "^4.21.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
